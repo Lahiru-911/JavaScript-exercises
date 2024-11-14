@@ -25,23 +25,23 @@
 // console.log(2 % 2);
 // console.log(2 ** 2);
 
-let counter = 10;
-counter++;
-console.log(counter);
+// let counter = 10;
+// counter++;
+// console.log(counter);
 
-let counter0 = 0;
-counter0++;
-counter0++;
-counter0++;
-counter0++;
-console.log(counter0);
+// let counter0 = 0;
+// counter0++;
+// counter0++;
+// counter0++;
+// counter0++;
+// console.log(counter0);
 
-let counter01 = 10;
-counter01--;
-console.log(counter01);
+// let counter01 = 10;
+// counter01--;
+// console.log(counter01);
 
-let counter02 = 10;
-counter02++;
-counter02++;
-counter02++;
-console.log(counter02);
+// let counter02 = 10;
+// counter02++;
+// counter02++;
+// counter02++;
+// console.log(counter02);
