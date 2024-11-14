@@ -29,6 +29,13 @@ let counter = 10;
 counter++;
 console.log(counter);
 
+let counter0 = 0;
+counter0++;
+counter0++;
+counter0++;
+counter0++;
+console.log(counter0);
+
 let counter01 = 10;
 counter01--;
 console.log(counter01);
