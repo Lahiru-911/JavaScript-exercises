@@ -28,3 +28,13 @@
 let counter = 10;
 counter++;
 console.log(counter);
+
+let counter01 = 10;
+counter01--;
+console.log(counter01);
+
+let counter02 = 10;
+counter02++;
+counter02++;
+counter02++;
+console.log(counter02);
