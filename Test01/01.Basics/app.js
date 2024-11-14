@@ -25,3 +25,6 @@
 // console.log(2 % 2);
 // console.log(2 ** 2);
 
+let counter = 10;
+counter++;
+console.log(counter);
