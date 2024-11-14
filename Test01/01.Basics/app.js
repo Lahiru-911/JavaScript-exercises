@@ -9,7 +9,19 @@
 // console.log(banana);
 // cant name varibles firstnumber , codeingnames ex:- var,class
 
-let name = "lahiru";
-let gender = "male";
-let become = "programmer";
-console.log(name, gender, become);
+// let name = "lahiru";
+// let gender = "male";
+// let become = "programmer";
+// console.log(name, gender, become);
+
+// let num = 5;
+
+// console.log(typeof num);
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 / 2);
+// console.log(2 * 2);
+// console.log(2 % 2);
+// console.log(2 ** 2);
+
