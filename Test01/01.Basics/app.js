@@ -4,6 +4,12 @@
 // console.clear();
 
 // Variables
-let banana;
-banana = "banana";
-console.log(banana);
+// let banana;
+// banana = "banana";
+// console.log(banana);
+// cant name varibles firstnumber , codeingnames ex:- var,class
+
+let name = "lahiru";
+let gender = "male";
+let become = "programmer";
+console.log(name, gender, become);
