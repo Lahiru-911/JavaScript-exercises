@@ -1,1 +1,3 @@
-console.log({name:lahiru});
+// console.log({name:"lahiru"});
+console.warn("this is warning");
+
