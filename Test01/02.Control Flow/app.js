@@ -21,21 +21,25 @@
 //   //break;
 // }
 
-let fruit = "banana";
+// let fruit = "banana";
 
-switch (fruit) {
-  case "banana":
-    console.log("bana");
-    break;
+// switch (fruit) {
+//   case "banana":
+//     console.log("bana");
+//     break;
 
-  case "orange":
-    console.log("org");
-    break;
+//   case "orange":
+//     console.log("org");
+//     break;
 
-  case "apple":
-    console.log("apple");
-    break;
+//   case "apple":
+//     console.log("apple");
+//     break;
 
-  default:
-    console.log("dont knw");
+//   default:
+//     console.log("dont knw");
+// }
+
+for (let i = 0; i <= 1000; i++) {
+  console.log("lahiru" + i);
 }
