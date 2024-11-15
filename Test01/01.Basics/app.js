@@ -105,14 +105,18 @@ let b = "Kavinda";
 // includes
 // console.log(a.includes("w"));
 
-
 // trim
 // console.log(a.trim());
 
-
-
-let fn = "lahiru"
-let ln = "kavinda"
+let fn = "lahiru";
+let ln = "kavinda";
 
 let fnc = fn.concat(ln);
- 
+console.log(fnc);
+
+let up = (fn + ln).toUpperCase();
+console.log(up);
+
+let msg = `my fav actor is ${fn.toUpperCase()} ${ln.toUpperCase()}`;
+console.log(msg);
+
