@@ -80,6 +80,22 @@
 let a = "lahiru ";
 let b = "Kavinda";
 
-let c = a.concat(b);
+// concatination
+// let c = a.concat(b);
 
-console.log(c);
+// console.log(c);
+
+// append
+// a += "Programmer";
+// console.log(a);
+
+// Length
+// console.log(a.length);
+
+// cases
+// console.log(a.toUpperCase());
+// console.log(a.toLocaleLowerCase());
+
+// slice
+// console.log(a.slice());
+
