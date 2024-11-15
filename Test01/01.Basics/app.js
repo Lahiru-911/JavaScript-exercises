@@ -77,8 +77,8 @@
 
 // console.log(dds);
 
-let a = "lahiru ";
-let b = "Kavinda";
+// let a = "lahiru ";
+// let b = "Kavinda";
 
 // concatination
 // let c = a.concat(b);
@@ -135,7 +135,8 @@ let b = "Kavinda";
 // number to string
 let money = 50;
 
-money = money.toString();
+// money = money.toString();
+// money = String(money);
 
 console.log(money);
 console.log(typeof money);
