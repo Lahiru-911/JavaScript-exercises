@@ -120,3 +120,6 @@ console.log(up);
 let msg = `my fav actor is ${fn.toUpperCase()} ${ln.toUpperCase()}`;
 console.log(msg);
 
+msg += " his best show";
+console.log(msg);
+
