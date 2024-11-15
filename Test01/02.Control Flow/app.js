@@ -40,6 +40,13 @@
 //     console.log("dont knw");
 // }
 
-for (let i = 0; i <= 1000; i++) {
-  console.log("lahiru" + i);
+// for (let i = 0; i <= 1000; i++) {
+//   console.log("lahiru" , i);
+// }
+
+let i = 10;
+
+while (i <= 100) {
+  console.log("lahiru", i);
+  i++;
 }
