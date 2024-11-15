@@ -69,10 +69,17 @@
 
 // console.log(total);
 
-ipl = true;
-ilh = false;
-fvNum = 7;
+// ipl = true;
+// ilh = false;
+// fvNum = 7;
 
-dds = fvNum + ilh;
+// dds = fvNum + ilh;
 
-console.log(dds);
+// console.log(dds);
+
+let a = "lahiru ";
+let b = "Kavinda";
+
+let c = a.concat(b);
+
+console.log(c);
