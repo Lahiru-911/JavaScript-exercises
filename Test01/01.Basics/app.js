@@ -124,10 +124,18 @@ let b = "Kavinda";
 // console.log(msg);
 
 // convert string to  num
-let money = "50";
+// let money = "50";
 
 // money = parseInt(money);
 // money = +money;
-money = Number(money);
+// money = Number(money);
+// console.log(money);
+// console.log(typeof money);
+
+// number to string
+let money = 50;
+
+money = money.toString();
+
 console.log(money);
 console.log(typeof money);
