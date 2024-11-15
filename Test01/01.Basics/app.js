@@ -133,10 +133,18 @@
 // console.log(typeof money);
 
 // number to string
-let money = 50;
+// let money = 50;
 
 // money = money.toString();
 // money = String(money);
 
-console.log(money);
-console.log(typeof money);
+// console.log(money);
+// console.log(typeof money);
+
+// let money = "50.215";
+
+// money = parseFloat(money);
+
+// console.log(money);
+
+
