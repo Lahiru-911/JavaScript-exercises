@@ -126,5 +126,8 @@ let b = "Kavinda";
 // convert string to  num
 let money = "50";
 
-money = parseInt(money);
+// money = parseInt(money);
+// money = +money;
+money = Number(money);
 console.log(money);
+console.log(typeof money);
