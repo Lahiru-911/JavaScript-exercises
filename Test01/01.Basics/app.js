@@ -107,4 +107,4 @@ let b = "Kavinda";
 
 
 // trim
-console.log(a.trim());
+// console.log(a.trim());
