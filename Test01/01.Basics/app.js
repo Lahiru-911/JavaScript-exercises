@@ -97,5 +97,7 @@ let b = "Kavinda";
 // console.log(a.toLocaleLowerCase());
 
 // slice
-// console.log(a.slice());
+// console.log(a.slice(1,4));
 
+// split & join
+console.log(a.split(""))
