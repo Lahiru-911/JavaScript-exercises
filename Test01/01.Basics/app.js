@@ -108,18 +108,23 @@ let b = "Kavinda";
 // trim
 // console.log(a.trim());
 
-let fn = "lahiru";
-let ln = "kavinda";
+// let fn = "lahiru";
+// let ln = "kavinda";
 
-let fnc = fn.concat(ln);
-console.log(fnc);
+// let fnc = fn.concat(ln);
+// console.log(fnc);
 
-let up = (fn + ln).toUpperCase();
-console.log(up);
+// let up = (fn + ln).toUpperCase();
+// console.log(up);
 
-let msg = `my fav actor is ${fn.toUpperCase()} ${ln.toUpperCase()}`;
-console.log(msg);
+// let msg = `my fav actor is ${fn.toUpperCase()} ${ln.toUpperCase()}`;
+// console.log(msg);
 
-msg += " his best show";
-console.log(msg);
+// msg += " his best show";
+// console.log(msg);
 
+// convert string to  num
+let money = "50";
+
+money = parseInt(money);
+console.log(money);
