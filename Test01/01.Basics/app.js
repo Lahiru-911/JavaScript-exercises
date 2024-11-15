@@ -100,4 +100,7 @@ let b = "Kavinda";
 // console.log(a.slice(1,4));
 
 // split & join
-console.log(a.split(""))
+// console.log(a.split("").join(""));
+
+// includes
+console.log(a.includes("w"));
