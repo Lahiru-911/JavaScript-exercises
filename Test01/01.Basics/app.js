@@ -46,26 +46,33 @@
 // counter02++;
 // console.log(counter02);
 
-let firstNum = 5;
-let secondNum = 10;
+// let firstNum = 5;
+// let secondNum = 10;
 
-total = firstNum + secondNum;
+// total = firstNum + secondNum;
 
-console.log(total);
+// console.log(total);
 
-total = firstNum - secondNum;
+// total = firstNum - secondNum;
 
-console.log(total);
+// console.log(total);
 
-total = firstNum / secondNum;
+// total = firstNum / secondNum;
 
-console.log(total);
+// console.log(total);
 
-total = firstNum * secondNum;
+// total = firstNum * secondNum;
 
-console.log(total);
+// console.log(total);
 
-total **= firstNum;
+// total **= firstNum;
 
-console.log(total);
+// console.log(total);
 
+ipl = true;
+ilh = false;
+fvNum = 7;
+
+dds = fvNum + ilh;
+
+console.log(dds);
