@@ -108,3 +108,11 @@ let b = "Kavinda";
 
 // trim
 // console.log(a.trim());
+
+
+
+let fn = "lahiru"
+let ln = "kavinda"
+
+let fnc = fn.concat(ln);
+ 
