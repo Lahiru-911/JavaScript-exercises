@@ -45,3 +45,27 @@
 // counter02++;
 // counter02++;
 // console.log(counter02);
+
+let firstNum = 5;
+let secondNum = 10;
+
+total = firstNum + secondNum;
+
+console.log(total);
+
+total = firstNum - secondNum;
+
+console.log(total);
+
+total = firstNum / secondNum;
+
+console.log(total);
+
+total = firstNum * secondNum;
+
+console.log(total);
+
+total **= firstNum;
+
+console.log(total);
+
