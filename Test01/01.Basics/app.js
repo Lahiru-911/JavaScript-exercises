@@ -103,4 +103,8 @@ let b = "Kavinda";
 // console.log(a.split("").join(""));
 
 // includes
-console.log(a.includes("w"));
+// console.log(a.includes("w"));
+
+
+// trim
+console.log(a.trim());
