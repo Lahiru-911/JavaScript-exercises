@@ -44,9 +44,16 @@
 //   console.log("lahiru" , i);
 // }
 
-let i = 10;
+// let i = 10;
 
-while (i <= 100) {
-  console.log("lahiru", i);
-  i++;
-}
+// while (i <= 100) {
+//   console.log("lahiru", i);
+//   i++;
+// }
+
+const date = new Date();
+// console.log(date);
+
+const month = date.getMonth();
+console.log(month);
+
